@@ -1,0 +1,4 @@
+node_modules
+postman.json
+package-lock.json
+.env
